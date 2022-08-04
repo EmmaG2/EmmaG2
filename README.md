@@ -1,5 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emmanuel
 
+![](https://i.redd.it/2pno5v8fuhf91.jpg)
+
 ## Full Stack Developer
 
 Welcome to my profile! I'm a student, part-time coder and full-time adventure seeker. Thanks for visiting!
@@ -19,7 +21,7 @@ Welcome to my profile! I'm a student, part-time coder and full-time adventure se
 
 </p>
 
-### Backend
+## Backend
 
 <p align='left'>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -30,11 +32,13 @@ Welcome to my profile! I'm a student, part-time coder and full-time adventure se
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="36" height="36" alt="JetBrains" /></a></p>
 
-### Testing
+## Testing and Others
 
 <p>
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://asset.brandfetch.io/idD7RfhCFS/id3KSPzOxb.png" width="36" height="36" alt="JUnit5" /></a>
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="36" height="36" alt="Jest" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://clang.llvm.org/docs/ClangFormat.html" target="_blank" rel="noreferrer"><img src="https://llvm.org/img/DragonMedium.png" width="36" height="36" alt="Clang" /></a>
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mockito/mockito/master/src/javadoc/org/mockito/logo.png" width="80" height="36" alt="JUnit5" /></a>
 </p>
 
