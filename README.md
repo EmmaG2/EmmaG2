@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emmanuel
 
-![](https://i.redd.it/2pno5v8fuhf91.jpg)
+<img src='https://i.redd.it/2pno5v8fuhf91.jpg'>
 
 ## Full Stack Developer
 
