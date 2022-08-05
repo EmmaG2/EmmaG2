@@ -39,7 +39,7 @@ Welcome to my profile! I'm a student, part-time coder and full-time adventure se
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="36" height="36" alt="Jest" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://clang.llvm.org/docs/ClangFormat.html" target="_blank" rel="noreferrer"><img src="https://llvm.org/img/DragonMedium.png" width="36" height="36" alt="Clang" /></a>
-<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mockito/mockito/master/src/javadoc/org/mockito/logo.png" width="80" height="36" alt="JUnit5" /></a>
+<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mockito/mockito/master/src/javadoc/org/mockito/logo.png" width="80" height="36" alt="Mockito" /></a>
 </p>
 
 ### Socials
