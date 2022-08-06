@@ -1,7 +1,5 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emmanuel
 
-<img src='./2pno5v8fuhf91.jpg'>
-
 ## Full Stack Developer
 
 Welcome to my profile! I'm a student, part-time coder and full-time adventure seeker. Thanks for visiting!
