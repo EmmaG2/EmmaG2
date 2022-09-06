@@ -48,8 +48,8 @@ Welcome to my profile! I'm a student, part-time coder and full-time adventure se
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/EmmanuelRdezG2"><img src="https://github-readme-stats.vercel.app/api?username=EmmanuelRdezG2&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="EmmanuelRdezG2's GitHub stats" /></a>
+<a href="http://www.github.com/EmmaG2"><img src="https://github-readme-stats.vercel.app/api?username=EmmaG2&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="EmmaG2's GitHub stats" /></a>
 
-<a href="http://www.github.com/EmmanuelRdezG2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelRdezG2&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/EmmaG2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmaG2&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/EmmanuelRdezG2" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelRdezG2&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/EmmanuelRdezG2" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaG2&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
