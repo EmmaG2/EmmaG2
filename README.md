@@ -1,45 +1,93 @@
-# 👋 Emmanuel Granados
+# Emmanuel Granados
 
-> 💻 Software developer, competitive programmer, neovim lover, and minimalist code enthusiast.  
-> Passionate about **clean design**, **performance**, and the **Unix philosophy**.  
-> Currently working with **Neovim**, **Spring Boot**, and **React**.
+**Software Engineer** — React, Next.js, TypeScript, NestJS, Rust.
+Building SaaS platforms, REST APIs, and native desktop apps.
+
+📬 [fergranados.dev@outlook.com](mailto:fergranados.dev@outlook.com) · [LinkedIn](https://www.linkedin.com/in/ingfergranados) · [GitHub](https://github.com/EmmaG2) · [Codeforces](https://codeforces.com/profile/EmmaGranados)
 
 ---
 
-## ⚙️ Main Tech Stack
+## Tech Stack
 
-### 🧠 Backend
-<p align="left">
-  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" /></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" height="36" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" /></a>
-</p>
-
-### 🪄 Frontend
+### Frontend
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" /></a>
   <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" /></a>
-  <a href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="36" height="36" /></a>
-  <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" height="36" /></a>
-  <a href="https://mui.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" height="36" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" /></a>
+  <a href="https://vitejs.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="36" height="36" /></a>
 </p>
 
-### 🧰 Tools & Others
+### Backend
 <p align="left">
-  <a href="https://neovim.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="36" height="36" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" /></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="36" height="36" /></a>
+  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="36" height="36" /></a>
+</p>
+
+### Databases
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" /></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" /></a>
+</p>
+
+### Cloud & DevOps
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" /></a>
+</p>
+
+### Tools
+<p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" /></a>
-  <a href="https://clang.llvm.org/" target="_blank"><img src="https://llvm.org/img/DragonMedium.png" width="36" height="36" /></a>
-  <a href="https://junit.org/junit5/" target="_blank"><img src="https://asset.brandfetch.io/idD7RfhCFS/id3KSPzOxb.png" width="36" height="36" /></a>
+  <a href="https://neovim.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="36" height="36" /></a>
+  <a href="https://tauri.app/" target="_blank"><img src="https://cdn.simpleicons.org/tauri/FFC131" width="36" height="36" /></a>
+  <a href="https://jestjs.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="36" height="36" /></a>
+  <a href="https://stripe.com/" target="_blank"><img src="https://cdn.simpleicons.org/stripe/635BFF" width="36" height="36" /></a>
+  <a href="https://socket.io/" target="_blank"><img src="https://cdn.simpleicons.org/socketdotio/010101" width="36" height="36" /></a>
 </p>
 
 ---
 
-## 🌱 Currently
+## Featured Projects
 
-- 🧩 Setting up my ultimate **Neovim** environment using *Lua* and *Catppuccin Mocha*.  
-- 🧠 Solving **competitive programming** problems (Codeforces / OmegaUp).  
-- ♟️ Training in chess and applying logical thinking to software development.
+### Nivora — SaaS Restaurant Management Platform
+
+A full-stack multi-tenant SaaS for restaurant operations, built as a **Turborepo + pnpm monorepo** with a shared `@nivora/shared` TypeScript package.
+
+**Frontend** — 5 specialized apps:
+- 2 **Next.js** apps with SSR: customer-facing portal and public landing page
+- 3 **React + Vite** SPAs: admin dashboard, restaurant dashboard, and inventory dashboard
+
+**Backend** — **NestJS 11** REST API with Hexagonal Architecture and 4 DDD bounded contexts: identity, restaurant, reservation, and billing.
+
+**Infrastructure**:
+- PostgreSQL 16 with PostGIS on AWS RDS
+- Redis atomic locks (`SET NX EX`) for concurrent reservation management
+- Stripe payment integration (SetupIntent + PaymentIntent flows)
+
+---
+
+### Chemical Balancer & Compiler — Tauri + Rust + Vanilla JS
+
+A native desktop application that parses and balances chemical equations using a **full compiler pipeline written in Rust**.
+
+**Compiler pipeline** (Rust 2021):
+Lexer → Parser (recursive descent) → Semantic Analyzer → Solver (Gaussian elimination with exact rational arithmetic — zero floating-point error)
+
+**Frontend** — Vanilla HTML/CSS/JS inside a Tauri WebView with real-time visualization of all pipeline phases: tokens, AST, symbol table, and error catalog.
+
+**Architecture**: Clean 3-layer design (Domain / Application / Interface), dual-interface (GUI + CLI) sharing one domain library. Rust ↔ JavaScript communication via Tauri IPC.
+
+---
+
+## Currently
+
+- Building and iterating on the Nivora SaaS platform
+- Exploring systems programming with Rust
+- Competitive programming on Codeforces
 
 ---
 
@@ -60,23 +108,10 @@
 
 ---
 
-## 🖤 About Me
+## About Me
 
-Since I was 5, I’ve always been fascinated by computers.  
-I started programming at 12 with Python, wanting to dive into **game development** — but over time, I realized my passion lay elsewhere.  
-I transitioned into **web development**, where I currently have the most experience.  
-
-My biggest projects include:  
-- 🛍️ A **Point of Sale system** for a furniture store using *Clean Architecture*.  
-- 💬 A **real-time chat application** built with *Angular* and *Spring Boot*.  
+I started programming at 12 with Python, initially drawn to game development. Over time my interests shifted toward web and systems engineering. Today I work across the full stack — building React and Next.js frontends, NestJS REST APIs, and native desktop apps with Rust and Tauri. I care about clean architecture, performance, and writing code that lasts.
 
 ---
 
-### 📬 Contact
-- ✉️ **itsmeemmadev@gmail.com**  
-- 🐙 [GitHub](https://github.com/EmmaG2)  
-- 🧠 [Codeforces](https://codeforces.com/profile/EmmaGranados)  
-
----
-
-© 2025 **Emmanuel Granados** — *Software Developer & Competitive Programmer*
+© 2025 **Emmanuel Granados**
