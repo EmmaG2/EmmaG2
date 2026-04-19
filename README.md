@@ -3,7 +3,7 @@
 **Software Engineer** — React, Next.js, TypeScript, NestJS, Rust.
 Building SaaS platforms, REST APIs, and native desktop apps.
 
-📬 [fergranados.dev@outlook.com](mailto:fergranados.dev@outlook.com) · [LinkedIn](https://www.linkedin.com/in/ingfergranados) · [GitHub](https://github.com/EmmaG2) · [Codeforces](https://codeforces.com/profile/EmmaGranados)
+📬 [Portfolio](https://www.fernandogranados.dev/) · [LinkedIn](https://www.linkedin.com/in/ingfergranados) · [GitHub](https://github.com/EmmaG2)
 
 ---
 
