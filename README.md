@@ -6,20 +6,16 @@
 
 ---
 
-<p align="center">
   <a href="https://github.com/EmmaG2">
     <img src="https://github-readme-stats.vercel.app/api?username=EmmaG2&show_icons=true&theme=dracula&hide_border=true&count_private=true&title_color=ff79c6&icon_color=ff79c6&text_color=f8f8f2&bg_color=282a36" width="48%" />
   </a>
   <a href="https://github.com/EmmaG2">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=EmmaG2&theme=dracula&hide_border=true&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" width="48%" />
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/EmmaG2">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaG2&layout=compact&theme=dracula&hide_border=true&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36" width="50%" />
   </a>
-</p>
 
 ---
 
