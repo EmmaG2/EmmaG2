@@ -21,7 +21,7 @@
 
 ## About Me
 
-I started programming at 12 with Python, initially drawn to game development. Over time my interests shifted toward web and systems engineering. Today I work across the full stack — building React and Next.js frontends, NestJS REST APIs, and native desktop apps with Rust and Tauri. I care about clean architecture, performance, and writing code that lasts.
+Hi, I'm Emmanuel Granados. My passion for programming started when I was 12, and by 16, I shifted my focus toward web development. Over the last five years, I’ve built personal projects, contributed to open-source software, and competed in numerous programming contests and hackathons—winning some and learning from others. Currently, I’m building mobile apps with React Native, and I'm really interested in diving into Swift for native iOS development.
 
 ---
 
